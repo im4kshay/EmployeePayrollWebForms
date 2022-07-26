@@ -15,8 +15,8 @@ create table EmployeeDetails(
 	RegisteredDate datetime default sysdatetime()
 );
 
---TO SEE EMPLOYEE DETAILS TABLE--
-select * from EmployeeDetails;
+--TO SEE EMPLOYEE DETAILS ;TABLE--
+select * from EmployeeDetails
 
 --TABLE LOGIN DETAILS--
 create table LogInDetails(
